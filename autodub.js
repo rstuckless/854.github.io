@@ -1,7 +1,7 @@
 var autoDub = {
     started: false,
     mode: "classic",
-    version: "00.08",
+    version: "00.09",
     whatsNew: "",
     firstMessage:"AutoDub has TWO modes. Classic mode and Timer mode. Classic mode upvotes right away when each song starts. Timer mode upvotes at a random time during the song. Toggle between the two modes in the dubtrack.fm left menu (the menu with the link to the lobby and stuff).",
     lastLoaded: null,
